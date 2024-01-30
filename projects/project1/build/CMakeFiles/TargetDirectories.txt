@@ -1,0 +1,3 @@
+/Users/leodagraca/Desktop/CS5330/projects/project1/build/CMakeFiles/vidDisplay.dir
+/Users/leodagraca/Desktop/CS5330/projects/project1/build/CMakeFiles/edit_cache.dir
+/Users/leodagraca/Desktop/CS5330/projects/project1/build/CMakeFiles/rebuild_cache.dir
